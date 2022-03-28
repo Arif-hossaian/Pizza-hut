@@ -46,7 +46,7 @@ export const ShowProduct: React.FC<any> = ({ pizzaList }) => {
   return (
     <section id="top-companies">
       <div className="mb-8 flex items-center justify-between">
-        <h2 className="text-2xl font-bold">Top Companies</h2>
+        <h2 className="text-2xl font-bold">Top Products</h2>
         <Button variant="outline" className="hidden xs:inline-flex">
           Show All
         </Button>
